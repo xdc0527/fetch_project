@@ -1,4 +1,4 @@
-# Fetch Interview Project
+# Fetch Rewards Coding Exercise
 
 This is an Android application developed for Fetch Rewards Coding Exercise - Software Engineering - Mobile. The application gets data from a given URL and displays it in a readable list.
 
@@ -21,7 +21,7 @@ This is an Android application developed for Fetch Rewards Coding Exercise - Sof
    
 ## How to Run Via Code
 
-1. **Clone the repository**: git clone https://github.com/clarkx98/fetch_project.git
+1. **Clone the repository**: git clone https://github.com/xdc0527/fetch_project.git
 
 2. **Open the project**: Open Android Studio and select `File > Open...`. Navigate to the directory where you cloned the repository and click `OK`.
 
